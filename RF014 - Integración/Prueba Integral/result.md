@@ -1,17 +1,17 @@
- FAIL  src/__tests__/page.test.tsx
+ PASS  src/__tests__/page.test.tsx
   
 handleSubmit Integration Tests
 
-    √ should render the page without crashing (65 ms)
-    × should add an activity successfully when valid data is provided (38 ms)
-    √ should not add an activity when invalid data is provided (17 ms)
+    √ should render the page without crashing (72 ms)
+    √ should add an activity successfully when valid data is provided (81 ms)
+    √ should not add an activity when invalid data is provided (19 ms)
 
-Test Suites: 1 failed, 1 total
+Test Suites: 1 passed, 1 total
 
-Tests:       1 failed, 2 passed, 3 total
+Tests:       3 passed, 3 total
 
 Snapshots:   0 total
 
-Time:        1.04 s
+Time:        1.251 s
 
 Ran all test suites.
