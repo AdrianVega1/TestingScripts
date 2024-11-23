@@ -1,4 +1,4 @@
-# Pruebs de Integración para la función handleSubmit en la Página de Nueva Actividad
+# Prueba de Integración para la función handleSubmit en la Página de Nueva Actividad
 Este README describe las pruebas de integración realizadas para la función handleSubmit en la página de creación de actividades (Page). Estas pruebas están diseñadas para garantizar que el flujo de creación de actividades se ejecute correctamente, manejando tanto los casos exitosos como los errores.
 ## Descripción General
 Se evalúa la interacción del usuario con la página de nueva actividad (Page). Se enfoca en el proceso de envío del formulario y verifica el comportamiento esperado cuando se proporcionan datos válidos e inválidos.
