@@ -75,11 +75,3 @@ La función `searchStudentByEmail` busca estudiantes registrados utilizando su c
    - **Escenario:** Correo válido asociado a un estudiante con datos completos (`nombre`, `edad`, `correo`).
    - **Resultado Esperado:** La función retorna un objeto con los datos del estudiante y su `id`.
 
-2. **Descripción:** Recuperar datos del estudiante con nombre modificado.
-
-   - **Escenario:** Correo válido con un nombre distinto (`Jane Doe`).
-   - **Resultado Esperado:** La función retorna un objeto con el nombre actualizado.
-
-3. **Descripción:** Recuperar datos del estudiante con edad modificada.
-   - **Escenario:** Correo válido con edad actualizada.
-   - **Resultado Esperado:** La función retorna un objeto con la edad actualizada.
