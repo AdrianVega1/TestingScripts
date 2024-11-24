@@ -3,7 +3,6 @@ FAIL  src/__tests__/page.test.jsx
 Functional Suitability - uploadFilePoster and addActivity
 
     uploadFilePoster
-        × should return false when file upload fails (2 ms)
         √ should return true when file upload is successful (23 ms)
         × should return true when file upload is successful
 
