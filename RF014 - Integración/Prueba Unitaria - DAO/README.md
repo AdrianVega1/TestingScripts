@@ -47,10 +47,6 @@ La función `uploadFilePoster` gestiona la carga de archivos a Firebase Storage.
    - **Escenario:** Simular un error al llamar a Firebase (`uploadBytes`).
    - **Resultado Esperado:** La función retorna `false`.
 
-2. **Descripción:** El archivo excede el tamaño permitido.
-   - **Escenario:** Simular un archivo con un tamaño superior al límite permitido.
-   - **Resultado Esperado:** La función retorna `false`.
-
 #### **Pruebas de Datos Válidos**
 
 1. **Descripción:** Subida exitosa de un archivo válido.
