@@ -46,10 +46,6 @@ La función `searchUserByEmail` tiene como objetivo buscar usuarios registrados 
    - **Escenario:** Correo válido con un rol distinto (`Admin`).
    - **Resultado Esperado:** La función retorna un objeto con el rol actualizado.
 
-3. **Descripción:** Recuperar datos del usuario con datos específicos actualizados.
-   - **Escenario:** Correo válido con número de celular modificado.
-   - **Resultado Esperado:** La función retorna un objeto con el celular actualizado.
-
 ### **Caso de Prueba: Validar correo en searchStudentByEmail**
 
 #### **Descripción**
