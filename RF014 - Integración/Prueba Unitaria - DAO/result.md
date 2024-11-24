@@ -15,7 +15,7 @@ Functional Suitability - uploadFilePoster and addActivity
 
 Test Suites: 1 failed, 1 total
 
-Tests:       4 failed, 4 passed, 8 total
+Tests:       3 failed, 4 passed, 7 total
 
 Snapshots:   0 total
 
