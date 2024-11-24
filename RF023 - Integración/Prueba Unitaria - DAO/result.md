@@ -19,12 +19,10 @@ searchUserByEmail and searchStudentByEmail - Dynamic Data Validation
         √ should return null when email has invalid format (missing domain)
         √ should return null when email has invalid format (missing @)
         √ should return data when a record is found by email
-        × should return data when a record is found by email (1 ms)
-        √ should return data when a record is found by email
 
 Test Suites: 1 failed, 1 total
 
-Tests:       2 failed, 14 passed, 16 total
+Tests:       0 failed, 14 passed, 14 total
 
 Snapshots:   0 total
 
