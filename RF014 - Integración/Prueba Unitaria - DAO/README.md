@@ -2,7 +2,7 @@
 
 #### **Introducción**
 
-Se evaluará si el sistema cumple con los requisitos funcionales asignados específicamente diseñados para los administradores. El enfoque principal será la funcionalidad de creación de itinerarios para estudiantes, asegurando que el proceso sea confiable y eficaz. Además, se validará la capacidad del sistema para manejar la carga de archivos relacionados con las actividades, utilizando Firebase como backend.
+Se evaluará si el sistema cumple con los requisitos funcionales específicamente diseñados para los administradores. El enfoque principal será la funcionalidad de creación de itinerarios para estudiantes, asegurando que el proceso sea confiable y eficaz. Además, se validará la capacidad del sistema para manejar la carga de archivos relacionados con las actividades, utilizando Firebase como backend.
 
 #### **Objetivo**
 
