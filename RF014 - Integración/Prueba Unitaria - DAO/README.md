@@ -19,12 +19,7 @@ La función `addActivity` tiene como objetivo agregar actividades a un itinerari
 
 #### **Pruebas de Datos Inválidos**
 
-1. **Descripción:** Fallo general al intentar agregar una actividad.
-
-   - **Escenario:** Simular un error al llamar a Firebase (`addDoc`).
-   - **Resultado Esperado:** La función retorna `false`.
-
-2. **Descripción:** Los datos de la actividad están incompletos.
+1. **Descripción:** Los datos de la actividad están incompletos.
    - **Escenario:** Falta el campo `nombre` en los datos proporcionados.
    - **Resultado Esperado:** La función retorna `false`.
 
