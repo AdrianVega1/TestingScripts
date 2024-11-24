@@ -9,7 +9,6 @@ searchUserByEmail and searchStudentByEmail - Dynamic Data Validation
         √ should return null when email is undefined (1 ms)
         √ should return null when email is null
         √ should return data when a record is found by email (2 ms)
-        × should return data when a record is found by email (4 ms)
 
     searchStudentByEmail
 
